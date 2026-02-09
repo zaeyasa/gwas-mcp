@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+        "gwas-bioinformatics": {
+            "command": "python",
+            "args": [
+                "-m",
+                "gwas_mcp.server"
+            ],
+            "cwd": "I:/ZZZ_Projects/GWAS-MCP/src",
+            "env": {
+                "PYTHONPATH": "I:/ZZZ_Projects/GWAS-MCP/src"
+            }
+        }
+    }
+}
