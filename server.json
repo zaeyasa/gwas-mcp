@@ -1,0 +1,21 @@
+{
+    "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+    "name": "io.github.zaeyasa/gwas-mcp",
+    "title": "GWAS Bioinformatics MCP Server",
+    "description": "Access 30+ bioinformatics tools from 14 databases.",
+    "repository": {
+        "url": "https://github.com/zaeyasa/gwas-mcp",
+        "source": "github"
+    },
+    "version": "1.0.2",
+    "packages": [
+        {
+            "registryType": "pypi",
+            "identifier": "gwas-mcp",
+            "version": "1.0.2",
+            "transport": {
+                "type": "stdio"
+            }
+        }
+    ]
+}

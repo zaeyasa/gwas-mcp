@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io)
 
+<!-- mcp-name: io.github.zaeyasa/gwas-mcp -->
+
 A powerful **Model Context Protocol (MCP)** server for GWAS and bioinformatics research. Seamlessly integrates with Claude Desktop and other MCP clients to provide AI-powered access to major biological databases.
 
 <p align="center">
